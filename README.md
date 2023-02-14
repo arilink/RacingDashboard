@@ -9,4 +9,6 @@ Racing Data is an open source simulation racing game dashboard software. Its fun
 |USBD480 |☐|
 |Extended screen|☐|
 |Custom screen|☐|
+
+USE HPM6750
 ---
